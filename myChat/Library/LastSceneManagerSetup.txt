@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OnScreenKeyboard/ExampleScene/OnScreenKeyboardScene.unity
+  isLoaded: 1
+  isActive: 1
